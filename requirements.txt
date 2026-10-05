@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sherlock-project
+python-multipart
+cachetools

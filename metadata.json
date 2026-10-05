@@ -1,0 +1,6 @@
+{
+  "name": "Sherlock Web",
+  "description": "Sherlock Project OSINT Username Finder web interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
